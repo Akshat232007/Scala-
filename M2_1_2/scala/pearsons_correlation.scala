@@ -4,7 +4,6 @@ import scala.math
 object PearsonCorrelation {
 
   def main(args: Array[String]): Unit = {
-    // Relative path to the file in your project
     val bufferedSource = Source.fromFile("src/main/Resources/vgsales.csv")
     val lines = bufferedSource.getLines().drop(1)
 
