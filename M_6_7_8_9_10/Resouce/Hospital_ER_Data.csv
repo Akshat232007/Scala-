@@ -1,0 +1,501 @@
+Patient Id,Patient Admission Date,Patient First Inital,Patient Last Name,Patient Gender,Patient Age,Patient Race,Department Referral,Patient Admission Flag,Patient Satisfaction Score,Patient Waittime,Patients CM
+145-39-5406,20-03-2024 08:47,H,Glasspool,M,69,White,,False,10.0,39,0
+316-34-3057,15-06-2024 11:29,X,Methuen,M,4,Native American/Alaska Native,,True,,27,0
+897-46-3852,20-06-2024 09:13,P,Schubuser,F,56,African American,General Practice,True,9.0,55,0
+358-31-9711,04-02-2024 22:34,U,Titcombe,F,24,Native American/Alaska Native,General Practice,True,8.0,31,0
+289-26-0537,04-09-2024 17:48,Y,Gionettitti,M,5,African American,Orthopedics,False,,10,0
+255-51-2877,20-04-2023 00:13,H,Buff,M,58,Asian,,False,,59,0
+465-97-0990,23-08-2023 08:26,F,Perrat,F,68,White,,True,,43,0
+157-31-7520,29-07-2023 16:57,K,Gwillim,F,47,Two or More Races,,True,,23,0
+432-34-5614,19-02-2024 06:54,E,Dewhirst,F,79,White,,False,1.0,42,0
+609-17-8678,11-10-2024 05:25,M,Crebo,M,62,African American,,False,,51,0
+497-14-6812,26-07-2024 01:45,Q,Churchard,F,73,White,Gastroenterology,True,,34,0
+393-38-9502,10-03-2024 22:02,N,Corpes,F,16,White,Orthopedics,False,,39,0
+288-05-6370,12-11-2023 16:00,R,Brixey,F,16,Native American/Alaska Native,General Practice,True,,53,0
+784-54-9931,25-06-2023 09:40,M,Goudie,M,46,Pacific Islander,,False,,45,0
+662-21-6522,04-05-2023 13:16,G,Stanlack,M,69,White,,True,,49,1
+628-73-1801,19-09-2023 01:53,C,McMurty,M,37,Declined to Identify,,True,,57,0
+370-19-2271,25-05-2024 22:11,I,Scothorn,F,50,Asian,General Practice,False,,35,0
+458-98-8860,25-06-2023 18:59,J,Helgass,M,37,Declined to Identify,,False,,55,0
+728-31-2493,04-09-2023 16:15,W,Chittock,F,70,Asian,Physiotherapy,True,,50,0
+823-34-5523,16-11-2023 23:46,F,Prendergast,M,55,Asian,,True,2.0,40,0
+621-70-7472,30-06-2023 05:22,T,Bissiker,F,63,Native American/Alaska Native,,True,,25,0
+344-36-7156,22-05-2023 16:48,M,Mandell,F,44,Asian,,False,2.0,51,1
+455-21-3671,17-11-2023 07:24,D,Coste,F,11,Declined to Identify,,False,4.0,30,0
+259-10-0339,26-01-2024 05:58,Q,Dodridge,M,8,Asian,General Practice,False,,16,0
+720-54-2625,24-05-2023 14:42,C,Pavie,F,4,Native American/Alaska Native,,True,,23,1
+661-92-7059,12-04-2023 21:02,Z,Sleightholm,M,42,African American,,False,0.0,51,0
+598-53-3927,04-09-2024 02:30,S,Noads,F,68,African American,,False,,58,0
+715-74-5338,16-12-2023 13:02,J,Filkin,M,22,Pacific Islander,General Practice,False,,25,0
+669-74-2146,11-03-2024 17:06,C,Bilby,F,58,Declined to Identify,Orthopedics,False,,55,0
+693-38-2084,07-07-2024 14:58,H,Kehoe,F,72,African American,,True,,37,0
+548-93-9953,02-04-2024 13:19,S,O'Neill,F,73,Two or More Races,Neurology,False,,46,0
+334-76-4005,30-06-2023 22:38,J,Sibbit,M,35,White,Orthopedics,True,,40,0
+846-66-7490,05-08-2024 15:17,T,Clissett,M,48,White,,False,,53,0
+278-49-6531,05-08-2024 01:33,L,Vannacci,F,74,White,Physiotherapy,False,0.0,20,0
+600-62-3412,16-01-2024 20:05,H,Ponting,M,14,Two or More Races,,True,,52,0
+745-62-9973,08-01-2024 23:55,D,Bleacher,F,37,Declined to Identify,,True,,49,0
+384-70-5840,14-12-2023 21:22,B,Drinkeld,M,25,African American,,False,,10,0
+285-41-0221,12-07-2024 13:12,N,Aggiss,M,39,Two or More Races,Orthopedics,False,,52,0
+124-73-3676,01-06-2024 10:34,K,Bilofsky,M,48,Declined to Identify,,False,,35,0
+878-55-0051,06-07-2023 19:47,R,Harrington,F,22,African American,General Practice,False,,16,0
+206-25-4281,15-06-2024 13:40,D,Yarrington,F,72,Declined to Identify,,True,7.0,33,0
+472-28-5842,12-10-2023 15:03,N,Gulliman,F,41,Pacific Islander,,False,,16,0
+553-27-8559,27-05-2023 06:13,Q,Garnsworthy,F,8,African American,General Practice,False,,59,1
+319-83-9008,23-03-2024 13:43,H,Hesbrook,F,70,Native American/Alaska Native,,True,,39,0
+434-16-5502,08-04-2023 12:59,N,Romanet,F,50,White,,True,,37,0
+672-89-2190,03-09-2023 18:39,K,Rushmare,F,33,Declined to Identify,,True,3.0,16,0
+135-05-4896,29-07-2023 17:37,P,Pow,M,17,Two or More Races,,False,,56,0
+760-33-4176,10-08-2024 02:38,Q,Dear,F,45,White,Orthopedics,False,,57,0
+624-71-9493,11-10-2023 01:56,X,Leake,F,53,White,,False,,21,0
+479-42-8894,18-04-2023 22:46,Z,Friman,F,15,White,,False,,29,0
+324-75-4743,08-09-2024 10:26,T,Aldridge,M,48,Pacific Islander,,False,,13,0
+207-15-4815,26-05-2024 06:51,O,Brattan,F,20,Asian,,True,,53,0
+407-45-1728,15-05-2024 21:10,L,Bourcq,M,45,Asian,,False,,37,0
+354-75-9525,25-09-2024 16:11,L,Shayes,F,76,African American,General Practice,True,,19,0
+298-72-2588,24-10-2024 04:53,E,Lillistone,M,74,Two or More Races,General Practice,True,9.0,48,0
+794-74-3955,15-10-2024 10:41,E,Cunningham,M,15,Declined to Identify,,True,,57,0
+213-04-4901,22-04-2024 04:59,L,Zum Felde,M,21,Asian,,True,,13,0
+683-46-5079,05-03-2024 14:01,B,Gostridge,M,47,Declined to Identify,General Practice,False,,45,0
+843-56-0384,16-06-2024 17:00,I,Fairrie,M,60,Asian,,True,,41,0
+882-39-1200,19-09-2023 05:19,P,Walak,M,10,Two or More Races,Orthopedics,False,,55,0
+697-90-3233,23-03-2024 11:13,W,Escale,M,54,Two or More Races,,False,10.0,58,0
+481-99-0791,14-01-2024 06:07,Y,Silveston,F,15,White,,True,7.0,12,0
+218-42-0736,26-04-2024 09:19,T,Dickin,M,55,Declined to Identify,General Practice,True,,30,0
+111-19-4529,08-08-2023 11:23,Q,Khoter,M,11,White,General Practice,False,,48,0
+490-74-0642,28-08-2024 22:40,F,Deshorts,M,7,Asian,,False,,31,0
+498-99-8689,14-08-2023 11:22,J,McAmish,M,49,Pacific Islander,,True,,18,0
+705-01-2168,13-09-2023 20:55,S,Jowitt,F,70,African American,General Practice,True,,55,0
+119-28-5124,18-04-2023 14:57,O,Pocklington,F,16,Asian,General Practice,True,,51,0
+509-88-2899,23-09-2023 23:51,F,Brudenell,M,14,Two or More Races,Orthopedics,True,4.0,23,0
+258-48-2258,22-06-2023 23:33,T,Lyons,M,41,African American,,False,4.0,46,0
+369-33-5075,20-10-2023 00:48,H,Esposi,M,8,African American,,False,,37,0
+643-90-3414,08-10-2024 15:51,U,Mangham,M,64,Pacific Islander,,False,,59,0
+412-29-6293,11-05-2024 15:52,J,Gianneschi,F,76,Two or More Races,Gastroenterology,True,,34,0
+844-81-9989,22-03-2024 02:48,C,Veldens,F,17,African American,General Practice,True,,27,0
+839-13-8580,05-09-2023 10:18,X,Barbery,M,38,Two or More Races,,False,,55,0
+367-52-9587,03-07-2023 20:27,R,Millan,F,75,White,Cardiology,True,,34,0
+621-85-6677,08-05-2024 18:03,X,Klimowicz,M,77,Native American/Alaska Native,General Practice,False,0.0,17,0
+563-01-2494,06-01-2024 20:40,D,Blaasch,M,34,Asian,,True,,40,0
+570-11-3903,07-03-2024 10:00,X,Audiss,F,26,Asian,Cardiology,True,1.0,16,0
+292-45-8684,17-04-2023 11:37,K,Hilliam,F,51,White,General Practice,True,6.0,25,0
+721-19-3123,19-07-2023 03:23,I,Franzelini,F,9,African American,,False,,23,0
+652-33-9813,15-06-2024 03:46,D,Hovie,F,71,Two or More Races,,True,,51,0
+809-14-6629,17-11-2023 06:23,N,Kinmond,M,51,African American,,False,,33,0
+304-72-3326,13-06-2024 20:15,O,Brito,F,73,Asian,Gastroenterology,False,0.0,10,0
+231-20-7799,02-06-2023 07:44,V,Puddifer,F,46,White,Physiotherapy,False,5.0,50,0
+597-41-0817,17-04-2023 08:03,T,Titman,F,13,White,,True,1.0,32,0
+496-23-9655,11-10-2023 03:24,X,Maffin,F,15,Declined to Identify,General Practice,True,9.0,15,0
+636-90-6357,17-10-2023 13:28,B,Lambarth,M,57,White,General Practice,True,2.0,35,0
+300-34-2747,10-12-2023 21:12,B,Durrant,M,16,Pacific Islander,,True,4.0,34,0
+178-52-1500,29-06-2024 14:27,K,Beavington,M,4,White,Orthopedics,False,,59,0
+521-84-1782,19-11-2023 19:44,A,Fidal,F,32,African American,,False,7.0,14,0
+818-26-8196,18-09-2024 17:49,B,MacNally,M,26,African American,Orthopedics,True,8.0,38,0
+808-11-5508,25-10-2024 10:33,U,Peat,F,9,Declined to Identify,Neurology,True,,37,0
+439-25-2191,10-10-2024 04:29,M,Plews,F,10,White,General Practice,True,,26,0
+186-28-5457,14-10-2024 06:03,L,Downing,F,24,Two or More Races,General Practice,True,,11,0
+854-61-3541,21-08-2024 01:01,U,Lightman,M,27,White,,False,,11,0
+368-53-4901,31-08-2024 06:38,I,Rubinsztein,M,26,White,,False,7.0,59,0
+826-27-1762,07-08-2024 13:33,I,Melluish,M,79,African American,,False,,29,0
+335-73-2892,26-08-2023 08:32,Y,Ricks,M,15,Asian,General Practice,True,2.0,56,0
+331-09-2284,08-07-2024 17:17,X,Laity,M,43,African American,,False,0.0,47,0
+888-46-1367,04-10-2023 11:46,W,Levee,F,14,African American,,False,,19,0
+577-17-4945,06-09-2024 21:58,Y,McGraw,M,59,White,General Practice,False,,34,0
+113-60-6899,07-07-2024 07:16,W,Itscovitz,M,58,Declined to Identify,,True,,36,0
+646-67-2143,12-08-2023 02:20,K,Halkyard,M,25,Two or More Races,,False,,59,0
+148-47-0490,13-08-2023 22:16,T,Friberg,M,64,Native American/Alaska Native,General Practice,True,,42,0
+345-87-0533,25-07-2023 11:43,A,Alyukin,M,20,Declined to Identify,,True,,34,0
+603-14-9459,13-05-2024 14:35,A,Milier,M,69,White,General Practice,False,,55,0
+628-78-9167,24-03-2024 18:56,X,Pamphilon,M,26,White,,False,,57,0
+814-60-0292,14-09-2024 10:47,Z,Gobourn,M,16,African American,,True,,11,0
+306-67-0367,20-10-2023 19:52,J,Bullier,M,45,White,General Practice,True,1.0,42,0
+658-82-9991,29-09-2024 04:06,O,Roscher,M,7,Pacific Islander,Orthopedics,True,9.0,45,0
+770-82-7913,09-04-2024 13:10,N,Longworth,M,66,White,General Practice,False,,45,0
+659-64-3380,09-07-2024 04:33,C,Wahner,F,61,Asian,General Practice,False,,58,0
+195-51-9264,12-10-2024 01:08,C,Lympany,F,47,White,Physiotherapy,True,,40,0
+240-68-3060,12-04-2023 02:01,I,Tootell,M,66,White,General Practice,False,,29,0
+866-26-1903,15-08-2024 13:07,Q,Jerson,M,8,Asian,Orthopedics,False,3.0,24,0
+275-36-1151,29-07-2024 20:34,C,Tumilson,F,9,White,,False,,21,0
+314-59-3768,27-06-2024 16:24,L,Ragsdale,F,24,Declined to Identify,General Practice,True,,31,0
+310-26-9113,02-08-2024 04:10,C,Simpole,F,16,African American,Renal,False,,11,0
+698-47-1909,26-07-2023 02:49,C,Whittock,M,47,Two or More Races,Orthopedics,False,,41,0
+378-02-5523,06-08-2024 18:30,A,Gouldie,M,23,African American,,True,0.0,23,0
+769-87-4732,26-01-2024 06:23,X,Bizley,F,51,African American,Neurology,True,,52,0
+120-71-9392,10-06-2024 09:44,K,Haet,M,26,White,Orthopedics,True,,53,0
+200-22-3513,05-08-2024 02:17,O,Jansen,M,32,Declined to Identify,,False,8.0,15,0
+415-95-3806,23-10-2024 20:01,D,Bantham,F,76,African American,,True,,49,0
+635-96-2790,29-01-2024 11:24,H,Hookes,F,6,African American,,True,9.0,23,0
+229-85-2969,09-11-2023 10:04,K,Najera,F,17,Two or More Races,General Practice,True,,58,0
+341-84-3922,08-08-2023 09:43,K,Carson,F,10,White,,False,,40,0
+442-29-0481,31-07-2023 01:19,Q,Radish,F,55,Declined to Identify,Physiotherapy,True,,47,0
+340-37-0758,21-12-2023 14:38,R,Feldman,F,73,White,,False,,29,0
+260-54-7458,15-06-2024 10:40,O,Chesnay,F,29,Asian,General Practice,False,,50,0
+421-27-7766,24-07-2023 13:00,O,Mc Coughan,M,51,White,General Practice,True,,22,0
+194-48-7359,19-04-2023 05:00,F,Stowers,M,60,White,Orthopedics,False,,38,0
+145-05-0045,25-10-2024 15:51,K,Jeffery,F,38,African American,General Practice,False,5.0,15,0
+497-86-6002,20-09-2024 12:11,W,Coll,M,72,White,,True,,33,0
+659-67-6667,21-10-2024 14:00,J,Schermick,F,72,White,,True,,52,0
+544-69-9655,16-11-2023 08:06,G,Westcarr,M,75,Asian,,False,,48,0
+887-86-8057,22-03-2024 13:28,W,Isaak,F,16,Asian,,True,,14,0
+795-38-6179,07-03-2024 11:47,J,Beade,M,8,Native American/Alaska Native,,False,10.0,25,0
+706-66-3236,22-10-2024 07:43,A,McIlwain,M,71,Two or More Races,General Practice,False,,25,0
+562-98-3699,03-04-2024 03:30,L,Yglesia,M,28,White,General Practice,False,4.0,25,0
+180-35-8890,01-03-2024 08:58,S,Vigurs,F,22,Declined to Identify,,False,8.0,31,0
+359-98-5533,23-08-2024 23:49,E,Kobiela,F,16,Two or More Races,,True,,58,0
+790-27-9833,15-01-2024 11:10,C,McClory,F,29,African American,,False,,14,0
+432-40-5889,16-07-2024 12:28,A,Capenor,M,19,White,,True,,26,0
+236-99-6309,30-06-2024 03:31,I,Feak,F,60,Native American/Alaska Native,General Practice,False,4.0,18,0
+662-90-5190,25-03-2024 15:16,O,Blore,M,71,Asian,General Practice,False,,46,0
+770-08-4969,05-05-2024 08:57,N,Bidewell,M,77,White,Orthopedics,False,,26,0
+893-18-5714,21-11-2023 14:41,O,Gambie,F,49,Asian,,True,,48,0
+190-91-2664,17-08-2024 11:53,C,Goullee,F,14,Pacific Islander,,True,,20,0
+213-46-3828,18-05-2023 15:35,X,Urlich,M,6,Asian,Orthopedics,False,,11,1
+808-75-2972,06-10-2024 05:24,X,Spellesy,M,6,Declined to Identify,,False,,36,0
+496-69-3161,11-08-2023 01:22,A,Shark,F,48,Declined to Identify,,False,,49,0
+239-37-0566,27-02-2024 17:03,S,Banton,M,10,White,,False,,17,0
+469-30-6816,08-10-2024 01:00,G,Preuvost,M,34,African American,,False,,26,0
+502-54-3350,14-01-2024 15:13,Z,Row,F,42,African American,,False,,55,0
+876-70-2288,05-06-2024 10:39,G,Sallery,F,3,African American,Gastroenterology,True,7.0,31,0
+767-42-4576,22-06-2023 18:20,M,End,M,22,African American,Orthopedics,False,,22,0
+251-38-8325,24-05-2024 14:50,X,Marjoram,F,37,White,,True,,53,0
+708-71-9586,07-01-2024 21:39,A,Vigrass,M,29,Native American/Alaska Native,,False,3.0,29,0
+215-50-7038,17-06-2024 02:49,R,Agney,M,34,Native American/Alaska Native,General Practice,False,,59,0
+210-58-4747,30-04-2023 09:37,N,Massingberd,M,43,White,,False,8.0,50,0
+854-45-3713,01-07-2024 16:18,B,Riggulsford,F,39,Two or More Races,Orthopedics,True,5.0,16,0
+574-65-3712,16-06-2024 18:38,J,Massow,F,25,Two or More Races,,True,,42,0
+270-55-3429,27-10-2023 00:06,X,Giraudot,M,27,Pacific Islander,Orthopedics,False,,59,0
+676-03-2440,27-05-2023 20:26,B,Tarn,F,13,Asian,,False,,11,1
+719-63-6159,13-08-2023 13:57,O,Reuven,F,54,Two or More Races,,True,,46,0
+634-41-8155,03-12-2023 23:00,D,Mason,M,39,African American,General Practice,True,0.0,54,0
+554-84-1081,18-10-2024 07:15,J,Barrow,M,27,Pacific Islander,,True,,58,0
+260-11-2849,20-10-2023 00:19,D,Vinson,F,66,Two or More Races,General Practice,False,2.0,39,0
+205-60-1987,22-12-2023 22:25,U,Luckman,M,32,African American,,True,,23,0
+607-91-4614,22-08-2023 01:15,Z,Florez,F,12,Asian,,False,7.0,34,0
+575-64-1293,19-07-2024 21:30,F,Mellem,F,55,Two or More Races,General Practice,True,9.0,25,0
+710-50-4562,08-02-2024 17:24,P,Benedite,F,47,Asian,,True,,29,0
+257-20-4587,06-06-2023 01:01,P,Theobald,M,61,Asian,Cardiology,True,,19,0
+352-67-4305,15-04-2024 07:12,K,Eyer,M,71,African American,,True,,37,0
+146-69-4652,21-05-2023 06:02,I,Singyard,F,34,White,,True,,28,1
+802-59-5463,17-12-2023 06:30,R,Smythin,F,24,African American,,True,4.0,32,0
+469-84-4163,29-12-2023 01:29,P,Rossoni,F,47,Two or More Races,,False,,19,0
+189-09-4142,18-05-2024 11:18,J,Deneve,M,51,Declined to Identify,General Practice,True,6.0,48,0
+636-29-5268,20-05-2024 15:29,D,Shawel,F,19,Two or More Races,General Practice,True,,30,0
+658-20-0202,29-02-2024 22:02,A,Say,F,50,Declined to Identify,,False,,34,0
+846-58-8376,20-06-2023 11:51,G,Bazley,F,8,White,,True,0.0,59,0
+278-01-6800,08-07-2023 17:42,E,Scogin,M,66,Asian,,True,,42,0
+403-48-2643,21-09-2023 07:14,T,Kimbury,F,62,African American,General Practice,False,,40,0
+574-05-3924,22-12-2023 23:41,Z,Medd,F,28,Declined to Identify,Cardiology,False,1.0,17,0
+606-55-9151,10-12-2023 06:02,T,Lerven,F,59,Two or More Races,Cardiology,False,,54,0
+389-27-5303,29-11-2023 07:02,B,Nevet,M,20,White,,True,,56,0
+335-84-9373,27-03-2024 11:41,C,Haglinton,M,8,African American,,False,,29,0
+117-02-4931,27-08-2023 16:16,N,Tenbrug,M,4,White,General Practice,False,,53,0
+400-48-7366,11-05-2024 03:33,H,Mattioli,F,64,African American,,True,9.0,32,0
+514-75-2742,24-01-2024 13:49,S,Royle,F,29,White,Orthopedics,False,,41,0
+781-40-0701,02-03-2024 19:16,A,Kuhne,M,26,Declined to Identify,,False,,55,0
+444-03-4235,22-07-2023 02:29,G,Aiskrigg,F,29,African American,General Practice,False,,12,0
+892-25-8683,15-08-2024 07:01,G,Colliard,M,14,African American,General Practice,False,7.0,60,0
+160-14-1320,24-04-2023 22:49,K,de Vaen,M,73,White,,False,3.0,31,0
+198-35-6734,19-04-2024 17:22,U,Eykel,M,49,White,,True,,38,0
+428-14-7095,06-07-2024 01:46,F,Peres,F,39,African American,Physiotherapy,True,,37,0
+132-48-1247,15-04-2023 18:40,G,Eastabrook,F,58,Asian,,False,,50,0
+411-11-8513,31-07-2024 06:01,P,Alessandretti,M,57,Two or More Races,,False,,34,0
+176-14-4067,25-07-2023 05:51,Q,Bland,M,4,Declined to Identify,,False,2.0,38,0
+318-27-1087,23-10-2023 13:36,Q,Busain,F,74,African American,,False,,24,0
+254-34-7286,10-08-2024 13:12,Z,Sawl,F,34,White,,False,,38,0
+278-84-3772,20-05-2023 06:10,Z,Todarini,F,9,Two or More Races,,True,,26,1
+689-35-5574,03-08-2024 03:46,S,Flippini,M,65,White,General Practice,False,3.0,40,0
+783-65-6030,07-05-2024 21:26,D,O'Carrol,F,30,Two or More Races,,True,,54,0
+551-80-9262,08-05-2024 16:46,K,Deelay,F,8,Pacific Islander,,True,,38,0
+541-01-7660,18-07-2023 03:58,L,Skyram,M,56,Asian,General Practice,False,,50,0
+799-44-2163,17-04-2024 10:17,Z,Taber,F,7,White,Physiotherapy,False,,53,0
+645-05-4509,14-07-2023 00:12,S,Moseley,M,4,White,,False,7.0,56,0
+890-83-9216,24-08-2024 15:09,H,Membry,F,59,Pacific Islander,,False,,53,0
+354-25-6792,20-02-2024 09:46,S,Coathup,M,7,Two or More Races,Physiotherapy,False,8.0,29,0
+112-44-3497,05-09-2023 20:43,Q,Sartain,F,9,Two or More Races,General Practice,True,,42,0
+274-80-8104,16-10-2023 11:49,M,Hadigate,M,44,African American,,False,,12,0
+427-82-7478,15-04-2023 16:38,O,Greenstead,M,53,White,,False,,39,0
+496-43-4865,12-10-2023 06:55,L,Woodstock,M,22,Asian,,True,0.0,59,0
+520-32-2321,21-10-2024 12:05,X,Antrack,F,35,Two or More Races,Orthopedics,False,4.0,13,0
+112-97-3102,10-10-2024 22:27,A,Dumbellow,M,66,Declined to Identify,,True,,43,0
+535-11-6522,04-11-2023 19:45,D,D'Ambrosi,F,16,Two or More Races,Physiotherapy,False,,17,0
+794-76-5261,23-04-2023 19:13,R,Breming,F,28,White,General Practice,True,8.0,39,0
+638-43-3145,20-12-2023 00:55,B,Backs,M,39,African American,Cardiology,False,,29,0
+459-36-1115,05-08-2024 05:14,O,Grimsditch,F,38,Declined to Identify,,False,,57,0
+175-55-7298,20-04-2024 20:48,M,Stapleford,M,56,African American,General Practice,False,3.0,13,0
+193-59-9441,22-06-2023 08:43,B,Dumbellow,M,37,Asian,,False,,50,0
+849-83-7668,27-06-2023 05:28,G,Ogilvie,F,5,White,,False,,43,0
+274-30-2230,17-04-2024 12:16,W,Bodham,M,24,African American,,True,,42,0
+242-37-3166,27-04-2023 15:44,H,Shorto,M,10,White,,True,0.0,55,0
+875-62-3505,17-12-2023 20:04,C,Renouf,M,7,Native American/Alaska Native,,False,,47,0
+661-56-7551,18-04-2023 09:55,W,Wollard,M,33,Asian,Physiotherapy,True,,52,0
+528-57-6645,20-05-2023 12:27,R,Luty,F,44,Asian,,False,4.0,60,1
+715-45-1813,07-08-2023 02:46,M,Sandcraft,F,48,African American,,False,,31,0
+457-45-2849,21-12-2023 07:20,D,Stert,M,8,Pacific Islander,,True,,41,0
+692-49-3211,30-08-2023 23:34,P,De Rye Barrett,M,69,African American,,False,4.0,38,0
+621-48-6458,01-08-2023 09:48,N,Kinsella,F,38,African American,,False,,54,0
+691-12-9990,19-05-2024 06:56,H,Abrahim,F,33,White,Gastroenterology,False,,22,0
+888-70-5454,22-06-2024 05:21,Q,Bolsteridge,F,16,African American,,True,,41,0
+323-30-5176,09-07-2024 21:39,S,Roz,M,54,White,,True,7.0,56,0
+452-96-1280,11-10-2024 19:53,C,Paolucci,F,33,African American,,True,,39,0
+763-87-4222,05-06-2023 12:44,C,Gabbitas,F,73,African American,Orthopedics,False,8.0,11,0
+728-15-5341,28-10-2023 15:00,R,Kiely,M,12,Asian,,False,,17,0
+166-20-2794,28-08-2023 09:40,U,Percy,M,68,White,,True,,44,0
+501-78-1934,30-11-2023 10:12,H,Heigl,F,16,African American,,True,,36,0
+167-17-2338,28-09-2024 01:53,Y,Brunotti,M,48,Native American/Alaska Native,,True,,44,0
+288-91-8881,24-07-2023 01:41,Z,Scotchbourouge,F,42,White,General Practice,False,,20,0
+156-04-1460,01-06-2024 23:55,V,Caress,M,21,African American,,False,10.0,22,0
+404-61-7141,29-01-2024 07:54,G,Schuler,F,46,Native American/Alaska Native,Orthopedics,True,,47,0
+310-75-2760,02-06-2024 05:52,B,Mayhow,M,78,Pacific Islander,General Practice,False,7.0,59,0
+797-10-7600,18-02-2024 11:41,V,Malletratt,M,1,Two or More Races,,False,9.0,28,0
+110-77-9670,10-12-2023 04:39,D,Skacel,M,36,African American,Orthopedics,True,,42,0
+556-92-5924,01-09-2024 13:38,I,Fulstow,F,37,Declined to Identify,,False,,52,0
+298-10-7060,15-09-2023 13:09,O,Martygin,F,34,African American,Orthopedics,True,,15,0
+490-07-8452,17-05-2023 07:02,F,Fawthrop,M,1,Two or More Races,,False,10.0,48,1
+172-88-6642,09-07-2024 11:43,O,Boggon,M,53,African American,General Practice,True,8.0,42,0
+864-61-2647,10-09-2024 20:45,X,Bonnesen,M,35,Two or More Races,Orthopedics,True,5.0,16,0
+131-71-6388,21-10-2023 18:42,A,Kunzler,M,60,White,Orthopedics,False,,16,0
+462-37-3053,03-05-2024 16:14,A,Hempel,M,41,Declined to Identify,,True,,23,0
+353-11-2559,02-12-2023 20:38,V,Pollington,F,49,Asian,,False,10.0,15,0
+130-62-4906,21-04-2023 02:44,Q,Spurrior,F,50,White,,False,,15,0
+306-59-8935,13-07-2024 04:50,O,Urpeth,M,44,Native American/Alaska Native,Cardiology,True,,39,0
+249-32-3203,22-04-2023 12:30,C,Rasell,F,50,Two or More Races,,False,,24,0
+262-69-4482,02-04-2023 05:05,U,Llopis,M,38,Declined to Identify,Gastroenterology,True,,14,0
+510-69-5252,12-05-2023 16:52,Y,Mabon,M,51,White,,True,,33,1
+799-21-2876,29-05-2024 10:50,X,Dillaway,F,19,Pacific Islander,,True,,39,0
+373-37-3790,11-07-2024 23:07,J,Sumers,M,67,Two or More Races,,False,3.0,56,0
+421-39-9248,16-04-2024 05:11,H,Bogges,M,13,White,Gastroenterology,False,8.0,33,0
+373-70-7925,06-02-2024 17:59,W,Dives,M,16,White,Orthopedics,True,,37,0
+610-55-3526,09-04-2023 01:07,Y,Ovid,M,29,White,Physiotherapy,True,,14,0
+525-36-7812,20-02-2024 22:36,G,Thorley,M,58,White,General Practice,False,,14,0
+114-16-7000,07-11-2023 23:11,J,Kimm,M,27,African American,General Practice,False,,45,0
+444-83-4739,01-05-2023 00:54,Q,Airey,F,44,White,General Practice,False,,30,1
+699-99-8759,19-05-2023 14:05,Y,Stebbing,F,27,White,,True,,31,1
+476-99-7972,26-06-2023 09:09,D,Janisson,F,68,African American,,True,,15,0
+828-49-0441,01-02-2024 08:13,U,Jensen,M,19,African American,,False,,38,0
+522-31-4708,26-07-2024 11:30,Q,Stennet,M,63,Pacific Islander,,True,,43,0
+646-17-3871,31-07-2023 08:03,J,Dunston,F,26,African American,,False,7.0,36,0
+878-36-7830,25-06-2023 20:05,J,Pietrzyk,M,19,White,Physiotherapy,False,6.0,50,0
+524-75-8060,23-10-2024 11:06,R,Simpson,F,4,White,General Practice,False,,39,0
+181-45-7803,09-04-2024 00:12,O,Cisland,F,21,African American,,False,,23,0
+342-04-5123,14-07-2024 22:37,M,Aronowitz,F,55,African American,,True,5.0,55,0
+628-20-1693,12-04-2023 07:08,H,Klimke,F,18,White,,False,,11,0
+184-21-1948,17-07-2024 03:40,K,Guppey,F,50,Two or More Races,General Practice,True,,46,0
+359-44-3613,26-03-2024 21:21,S,Lafflin,F,20,African American,,False,,43,0
+280-60-4794,18-05-2024 12:07,Z,Gillingham,M,22,Asian,,False,,55,0
+502-81-1725,25-10-2024 18:47,W,Boulder,F,13,Pacific Islander,,False,8.0,50,0
+489-43-8448,12-06-2024 00:37,O,Bunstone,M,10,White,,False,,21,0
+834-50-2690,29-08-2023 07:12,C,Kieff,M,31,African American,General Practice,True,,42,0
+264-22-2247,05-06-2023 10:10,O,Gorhardt,F,14,Two or More Races,General Practice,False,8.0,12,0
+825-23-7126,22-02-2024 10:52,W,Clarke-Williams,F,42,Two or More Races,Gastroenterology,False,,54,0
+716-80-7186,05-05-2024 05:26,S,Venners,M,29,African American,,False,,60,0
+752-35-4165,01-05-2024 08:43,C,Glewe,F,22,Asian,,False,,54,0
+267-10-5957,11-01-2024 20:49,O,Guslon,F,26,Asian,,True,,14,0
+732-27-6608,14-07-2024 21:58,N,Guirard,M,32,Pacific Islander,,False,,17,0
+548-78-6274,30-08-2024 07:21,Z,Housegoe,M,70,White,,False,,57,0
+255-46-2640,09-05-2024 01:51,K,Kinglesyd,F,2,Two or More Races,Orthopedics,False,0.0,24,0
+744-26-5135,02-03-2024 16:08,H,Francais,M,29,White,,True,,32,0
+852-35-5869,30-11-2023 14:20,T,Brennon,F,15,Asian,Cardiology,False,,54,0
+551-35-9369,01-03-2024 12:16,B,Simonetto,F,9,African American,General Practice,False,10.0,47,0
+294-07-5007,23-08-2023 20:27,R,Perkins,F,75,African American,General Practice,False,,22,0
+526-03-2526,05-06-2023 02:56,V,Yarr,M,54,African American,,False,0.0,59,0
+532-60-7967,17-05-2024 13:23,I,Burberry,F,63,African American,,False,,40,0
+603-11-0846,26-09-2023 01:09,C,MattiCCI,F,50,White,General Practice,False,,28,0
+867-06-8022,29-09-2023 13:22,W,Tours,M,34,Declined to Identify,Renal,True,,50,0
+602-04-0876,07-08-2023 04:12,P,Egalton,M,23,White,,True,,44,0
+712-25-4902,07-07-2023 03:21,J,Skarman,M,6,White,,False,2.0,32,0
+201-90-2001,08-07-2024 19:41,M,De Avenell,M,30,White,General Practice,False,,14,0
+374-26-1067,16-02-2024 15:38,V,Maillard,M,12,White,,False,,40,0
+825-76-3394,18-07-2024 22:29,Y,Kerrey,M,63,White,General Practice,False,0.0,45,0
+274-62-9187,12-04-2023 19:25,O,Esland,M,42,White,General Practice,False,,27,0
+169-56-6778,22-10-2023 16:04,H,Blitz,M,65,White,,False,6.0,27,0
+294-30-6567,14-04-2023 20:19,E,Winterborne,M,21,Two or More Races,,True,,42,0
+694-56-2971,12-01-2024 21:42,V,Doldon,M,1,Pacific Islander,,False,7.0,24,0
+499-95-0291,23-07-2023 09:38,J,Garner,F,29,Pacific Islander,,True,,28,0
+105-08-1976,23-07-2024 16:49,J,Klyn,F,16,Native American/Alaska Native,Physiotherapy,True,,58,0
+270-90-4999,08-07-2024 23:12,J,Devericks,F,38,Two or More Races,,False,,48,0
+416-45-5565,18-11-2023 07:01,I,Buckby,F,20,White,General Practice,False,,40,0
+253-84-5746,01-08-2023 07:12,Q,Celli,F,22,Declined to Identify,,True,,29,0
+593-36-2410,15-06-2024 11:51,G,Wrightson,F,23,Asian,Gastroenterology,True,8.0,23,0
+864-78-5560,19-05-2024 19:44,Q,Coleson,M,14,Asian,Physiotherapy,False,,13,0
+107-25-3448,05-08-2024 22:13,H,Littrik,F,72,African American,,False,,21,0
+846-58-7999,30-05-2024 06:14,R,Munby,M,27,African American,,False,8.0,14,0
+435-77-6310,19-06-2024 12:17,C,Pedrol,M,25,Two or More Races,,True,,45,0
+689-47-4564,18-01-2024 10:41,Q,McColm,F,17,White,,False,,57,0
+320-85-0898,16-02-2024 08:05,G,Paull,M,78,Native American/Alaska Native,Orthopedics,True,1.0,28,0
+140-30-2555,16-02-2024 02:25,L,Vasilchenko,F,19,White,Neurology,False,,58,0
+388-34-2380,11-02-2024 01:32,E,Normanton,F,46,African American,Orthopedics,True,,12,0
+251-72-9605,24-01-2024 19:28,I,Gentry,F,35,Two or More Races,Orthopedics,False,,54,0
+367-68-2505,27-09-2024 09:06,D,Humpherson,F,6,Two or More Races,,True,,40,0
+782-34-4167,17-04-2023 09:04,X,Osgarby,F,36,White,General Practice,True,9.0,50,0
+660-86-2261,08-01-2024 19:38,E,McKeown,F,27,Asian,,True,,55,0
+307-95-7194,27-09-2024 06:11,A,Riddall,M,2,African American,,True,,46,0
+411-32-4858,23-10-2023 07:22,J,MacTrusty,M,67,Asian,General Practice,False,7.0,40,0
+471-83-4980,04-09-2023 00:21,Z,Lomax,M,53,African American,,True,2.0,37,0
+506-94-2779,22-05-2024 09:48,B,Cornew,F,74,White,,False,,51,0
+706-09-4564,08-06-2024 10:01,U,Vickars,M,26,White,,False,,19,0
+463-17-9883,23-01-2024 09:41,X,Lasty,M,56,Pacific Islander,,True,0.0,18,0
+740-14-6005,10-11-2023 06:23,T,Dunk,M,9,African American,,False,0.0,24,0
+501-24-5548,26-09-2023 02:35,W,Towey,F,3,African American,General Practice,False,4.0,27,0
+332-44-9371,08-05-2023 20:03,X,Cubbino,M,18,African American,Orthopedics,True,,36,1
+256-95-4828,15-06-2023 03:28,R,Kimmings,F,28,White,,False,9.0,37,0
+715-12-7760,28-04-2023 14:56,C,Ovey,M,49,Two or More Races,General Practice,True,5.0,43,0
+498-19-8616,01-03-2024 23:41,P,Lambe,M,30,Declined to Identify,Cardiology,True,,43,0
+160-49-1316,23-12-2023 00:34,X,Glanton,F,32,Two or More Races,General Practice,False,,51,0
+760-59-1309,29-08-2024 16:55,Z,Oakley,M,52,Two or More Races,General Practice,True,,49,0
+591-83-7831,17-05-2023 10:22,Q,Bentick,F,62,Native American/Alaska Native,,False,8.0,21,1
+735-59-0676,21-07-2024 21:29,H,Artist,M,49,Pacific Islander,,True,,34,0
+343-75-3388,20-01-2024 11:54,M,Damrel,F,40,Asian,,False,,32,0
+331-25-4113,11-05-2023 00:20,A,Ettridge,M,28,Pacific Islander,,True,,14,1
+107-19-6298,15-08-2024 17:50,K,Clendennen,M,28,Asian,Orthopedics,False,,10,0
+568-76-0444,22-01-2024 16:43,U,Doxsey,F,74,Two or More Races,General Practice,False,,18,0
+516-65-1574,16-01-2024 10:54,F,Colwell,F,50,Declined to Identify,,True,7.0,35,0
+190-99-7486,26-05-2023 09:55,I,Follitt,F,78,White,,True,,22,1
+302-11-3266,14-05-2023 18:54,L,Toal,F,24,White,General Practice,False,,30,1
+233-24-4968,21-09-2024 20:59,Q,Knapman,M,49,Asian,,True,,56,0
+718-40-9446,31-07-2024 15:22,A,Mitrikhin,F,31,Two or More Races,Orthopedics,False,1.0,55,0
+245-02-8824,18-04-2024 20:25,A,Winfindine,M,12,White,General Practice,False,6.0,50,0
+706-58-1402,28-02-2024 09:28,J,Garfitt,NC,66,Asian,General Practice,False,,50,0
+618-67-3994,24-02-2024 08:23,O,Stummeyer,F,56,Two or More Races,,True,,54,0
+880-75-5124,15-08-2023 11:23,B,von Hagt,F,59,Two or More Races,Orthopedics,False,,47,0
+417-60-6491,11-06-2023 09:21,E,Creegan,M,11,African American,General Practice,True,,58,0
+356-85-1950,07-08-2023 18:04,K,Auger,F,10,African American,,False,,36,0
+195-71-6230,20-08-2023 21:09,E,Holtham,F,13,Pacific Islander,,False,0.0,47,0
+397-44-2425,03-06-2023 01:27,O,Tincombe,M,17,Two or More Races,General Practice,False,5.0,12,0
+539-86-9387,25-08-2024 15:56,M,Baudasso,F,69,Asian,General Practice,True,,32,0
+266-73-6494,01-10-2023 11:36,P,Cockshutt,F,13,Declined to Identify,,True,9.0,40,0
+177-05-5852,06-05-2023 23:25,I,Delatour,M,71,White,General Practice,False,,25,1
+575-74-8288,13-10-2023 20:19,J,Sharpless,F,26,Two or More Races,,True,,36,0
+334-31-4472,08-04-2023 17:26,C,Spracklin,M,61,White,,False,,30,0
+614-04-9706,30-10-2023 22:37,P,Schusterl,F,78,White,Orthopedics,False,,19,0
+540-50-5144,31-07-2023 17:43,G,Wickham,M,21,Declined to Identify,,False,,45,0
+812-85-8608,27-05-2023 01:39,H,McKeurton,M,53,Asian,Orthopedics,False,0.0,50,1
+619-68-4925,08-08-2024 11:45,I,Laborda,F,22,African American,General Practice,True,,12,0
+106-50-3710,21-07-2023 05:31,L,Casiroli,F,50,Two or More Races,,True,,25,0
+892-34-1050,03-06-2023 01:38,C,Braunroth,M,73,African American,,False,,60,0
+307-56-5381,03-10-2023 11:22,D,Bossingham,F,47,White,,False,,28,0
+505-14-5247,03-05-2024 11:14,V,Gidden,M,14,Pacific Islander,General Practice,False,2.0,17,0
+671-14-7147,24-09-2023 12:52,S,Rogliero,F,12,White,,False,,29,0
+483-71-2239,30-12-2023 17:51,D,Downie,M,8,Declined to Identify,,True,0.0,21,0
+298-33-9030,28-12-2023 02:20,A,Raithmill,F,63,Two or More Races,General Practice,True,5.0,19,0
+485-81-8334,29-10-2023 21:36,X,Tewkesberrie,M,39,White,Orthopedics,False,,47,0
+108-25-6001,06-08-2024 17:48,T,Snedker,F,10,White,Neurology,True,,11,0
+215-03-5942,09-08-2023 08:03,V,Inns,F,3,Pacific Islander,Physiotherapy,False,,29,0
+219-91-7181,20-01-2024 04:10,H,Stanway,F,68,Two or More Races,,False,,27,0
+607-44-6875,25-06-2023 07:56,L,Vedekhov,F,35,African American,,False,8.0,35,0
+158-72-1114,02-06-2024 10:26,O,Blakeney,M,64,Two or More Races,General Practice,True,3.0,32,0
+388-69-8923,13-01-2024 19:05,G,Tanby,F,72,White,,True,,33,0
+728-66-8875,15-01-2024 13:10,X,Burness,F,68,Asian,General Practice,True,,36,0
+361-42-4250,18-11-2023 21:20,J,Haddick,F,69,Declined to Identify,General Practice,False,,59,0
+316-95-8309,28-05-2023 17:46,O,Ambrosini,M,79,African American,,False,8.0,55,1
+653-67-0050,30-10-2023 10:20,Y,Duggon,F,16,African American,,False,,21,0
+239-59-8659,12-10-2023 22:55,K,Gapp,F,78,Asian,,True,9.0,43,0
+241-34-9948,14-05-2023 01:04,W,Tabor,F,10,White,,True,,51,1
+171-54-7134,12-09-2024 03:14,X,Rouby,F,64,Native American/Alaska Native,,False,,36,0
+644-14-3306,04-01-2024 22:50,C,Wellan,M,27,Asian,,True,4.0,23,0
+659-59-5114,11-06-2024 07:25,Y,Oakden,M,18,Declined to Identify,,True,,59,0
+706-06-7749,14-04-2024 22:38,E,Campelli,F,40,Asian,Orthopedics,True,6.0,13,0
+248-21-1787,02-04-2023 09:15,C,Benez,F,60,White,Physiotherapy,True,,60,0
+806-82-0501,27-03-2024 00:28,P,Offield,F,7,Native American/Alaska Native,,True,,24,0
+271-74-6084,15-04-2024 01:32,W,Wycliff,F,62,African American,Physiotherapy,False,,56,0
+112-21-1867,24-05-2024 15:47,R,Haulkham,F,32,African American,,False,,44,0
+745-14-6527,19-07-2024 13:27,F,Theze,M,17,White,,False,,10,0
+210-95-8263,08-09-2023 15:00,Q,Simon,M,49,Two or More Races,,False,,33,0
+253-01-4563,22-12-2023 00:30,U,Godspeede,M,24,Native American/Alaska Native,General Practice,False,,43,0
+306-08-1494,22-05-2023 09:41,C,MacInnes,F,69,Two or More Races,,False,,60,1
+242-70-5420,23-08-2024 16:04,X,Caroll,F,9,White,Physiotherapy,False,,35,0
+362-30-0094,01-10-2023 15:34,X,Outibridge,M,65,Native American/Alaska Native,General Practice,False,,39,0
+651-84-7603,27-10-2024 15:34,X,Dunston,F,59,African American,General Practice,False,10.0,29,0
+551-02-4054,06-06-2023 04:23,O,Gull,F,65,African American,Cardiology,True,,59,0
+140-28-2291,17-03-2024 16:29,Y,Neame,M,3,African American,,True,9.0,32,0
+290-95-7276,15-09-2024 00:37,Q,Heselwood,F,26,African American,,False,,49,0
+750-10-6392,29-08-2024 06:21,W,Babin,F,64,White,Orthopedics,False,,43,0
+809-85-4177,15-01-2024 20:53,J,Deluca,M,65,Declined to Identify,General Practice,False,1.0,33,0
+181-41-7605,08-09-2024 10:45,K,Pesterfield,M,27,Two or More Races,,False,,18,0
+353-36-6428,24-07-2024 02:03,P,Durrant,M,29,Pacific Islander,,False,,42,0
+290-26-3161,23-10-2024 11:11,F,Ivanshintsev,M,3,Two or More Races,,False,0.0,26,0
+724-23-4445,20-08-2024 21:13,X,Orrom,F,45,Asian,,True,,25,0
+404-78-8737,14-07-2024 01:28,A,O'Fallowne,M,75,Declined to Identify,,True,,25,0
+642-92-2378,03-05-2024 03:16,I,O' Meara,F,39,White,,True,5.0,29,0
+631-49-3222,21-05-2023 05:58,N,Stump,F,13,Declined to Identify,General Practice,True,,27,1
+684-93-8823,23-04-2023 19:21,K,Childe,M,74,White,Cardiology,True,,51,0
+740-20-2785,25-05-2023 18:01,V,Biddulph,F,34,Declined to Identify,,False,,39,1
+167-30-0521,28-06-2023 13:24,L,Mablestone,M,76,White,,True,,53,0
+827-97-4092,17-02-2024 00:38,O,Sibbering,M,26,Asian,Physiotherapy,True,9.0,59,0
+427-34-8170,13-10-2024 15:10,E,Braybrookes,F,79,Asian,General Practice,False,,21,0
+364-28-5162,01-10-2023 15:20,I,De Ambrosis,F,28,Pacific Islander,Cardiology,False,7.0,18,0
+214-51-5890,05-08-2023 15:00,H,Swalowe,F,45,White,Orthopedics,False,,40,0
+231-02-7602,15-10-2023 14:44,R,Spelling,M,22,White,Orthopedics,False,,32,0
+430-40-6651,03-07-2023 09:04,E,Bentz,M,76,White,,True,3.0,50,0
+568-02-0607,27-08-2023 00:37,L,Creamer,F,8,African American,,True,,41,0
+857-68-5135,06-04-2024 12:00,C,Scott,F,4,African American,Gastroenterology,False,6.0,47,0
+633-74-7415,11-10-2023 12:34,O,Amor,F,17,White,,True,4.0,37,0
+768-43-9102,08-07-2023 00:55,S,Marrow,F,12,Declined to Identify,,True,2.0,46,0
+851-96-4883,05-08-2024 10:47,E,Mealiffe,F,57,African American,General Practice,False,,29,0
+389-89-2868,03-06-2024 20:34,U,Brandassi,F,61,Two or More Races,General Practice,False,,29,0
+387-40-4388,30-05-2024 06:44,K,Cruise,M,31,White,Neurology,False,,44,0
+759-40-6832,03-06-2023 14:37,K,Luparto,M,10,Two or More Races,Orthopedics,True,,43,0
+454-48-2824,20-11-2023 03:57,Z,Kernell,F,7,Two or More Races,,False,,46,0
+357-72-8460,01-05-2023 07:01,T,Fannon,F,56,Two or More Races,,True,,56,1
+241-06-7024,01-10-2023 15:44,E,Cutress,F,19,African American,Physiotherapy,True,1.0,60,0
+618-10-2399,04-11-2023 03:38,B,Portail,M,30,Two or More Races,Physiotherapy,False,0.0,40,0
+242-26-0614,21-02-2024 07:28,U,Terram,M,59,African American,,True,,50,0
+344-60-3150,04-02-2024 13:53,F,Butts,M,15,African American,General Practice,True,,16,0
+207-52-3908,19-11-2023 14:19,M,Dikels,F,20,White,Orthopedics,True,7.0,33,0
+288-28-0528,24-12-2023 13:24,G,Denne,M,73,Two or More Races,,False,,47,0
+596-31-5134,22-05-2024 13:54,Q,Danielkiewicz,F,1,Declined to Identify,,True,,21,0
+353-44-5247,25-07-2023 23:16,E,Braunes,M,11,Pacific Islander,,False,7.0,58,0
+636-33-2409,14-12-2023 00:00,D,Budik,F,57,Declined to Identify,General Practice,False,,41,0
+411-40-4241,30-05-2023 10:22,H,Longland,F,62,Asian,General Practice,True,,49,1
+451-17-9647,14-11-2023 04:15,I,Lethbury,M,1,Declined to Identify,Orthopedics,False,,36,0
+733-31-0767,22-03-2024 12:20,M,Mullany,M,53,Asian,,True,,29,0
+511-19-0295,29-07-2023 02:58,D,Langston,M,28,Pacific Islander,General Practice,False,,45,0
+603-46-9977,28-09-2024 17:53,Q,Elfe,F,49,African American,,True,,15,0
+477-57-4070,18-04-2023 04:45,G,Potteridge,M,57,African American,,True,2.0,33,0
+632-44-8851,22-02-2024 16:06,Q,Aicken,F,32,Declined to Identify,General Practice,True,,39,0
+482-14-6628,16-12-2023 15:02,V,Trengove,M,50,African American,,False,,52,0
+500-11-7409,09-03-2024 16:51,I,Wasielewicz,M,76,White,,True,,49,0
+340-20-9334,24-01-2024 02:42,K,Ham,F,25,Two or More Races,,True,,57,0
+448-51-7664,07-10-2023 11:17,H,Wheeliker,M,39,Pacific Islander,,True,10.0,59,0
+331-93-9295,28-04-2023 05:36,J,Vain,F,76,White,,True,,41,0
+106-58-3767,21-09-2024 05:30,Z,Briance,F,10,African American,,False,,43,0
+399-73-4231,25-07-2023 23:02,A,Alejandro,F,27,White,Gastroenterology,False,,12,0
+386-79-2013,18-12-2023 20:43,T,McIlharga,M,55,Native American/Alaska Native,Renal,False,1.0,31,0
+264-80-8420,02-09-2023 00:03,V,Readmire,M,15,White,,True,,41,0
+758-87-8577,22-01-2024 12:37,G,Haseldine,F,44,Asian,,True,,30,0
+432-64-7259,21-04-2024 16:10,C,Wharlton,F,35,Declined to Identify,,False,,55,0
+881-97-4043,27-02-2024 05:13,R,McFadin,F,78,White,General Practice,True,9.0,42,0
+577-64-5812,12-10-2024 02:07,C,Pairpoint,M,33,African American,,True,,59,0
+518-18-8369,29-09-2024 14:57,F,Mickleburgh,F,63,Asian,,True,,11,0
+192-58-1232,26-06-2023 22:56,Q,Gleadhell,F,27,Two or More Races,Neurology,False,,42,0
+114-36-5111,21-02-2024 22:55,R,Tilburn,F,44,White,,True,,30,0
+163-41-6583,30-10-2023 15:15,O,Bilby,F,25,African American,,True,,12,0
+534-52-3938,05-06-2024 18:50,J,Felmingham,M,34,Two or More Races,,False,6.0,41,0
+530-98-5548,29-05-2023 17:41,J,Melmeth,F,64,Declined to Identify,General Practice,False,,42,1
+880-96-7672,28-07-2024 21:08,M,Huncoot,M,53,Two or More Races,,True,8.0,23,0
+543-30-7171,12-08-2024 08:26,F,Canty,M,12,White,Orthopedics,False,,60,0
+249-15-9115,08-09-2023 19:16,K,Whopples,F,54,Two or More Races,Cardiology,True,,18,0
+729-02-7030,26-03-2024 18:38,M,Satch,F,59,Asian,,True,,44,0
+808-17-1359,27-10-2024 19:57,U,Hargey,M,76,White,General Practice,True,5.0,13,0
+540-89-3110,28-09-2024 10:17,R,Elderton,F,60,Two or More Races,,False,,10,0
+100-40-2709,08-05-2024 04:58,O,Cammack,M,77,White,,False,,48,0
+867-83-3947,08-09-2024 07:37,S,Pash,M,29,Pacific Islander,,False,,55,0
+849-01-9695,21-05-2024 17:14,H,Emmanuele,F,5,Two or More Races,,True,,37,0
+601-32-8756,03-05-2024 04:49,I,Sissel,F,8,Asian,,False,7.0,54,0
+409-67-0369,14-07-2023 16:51,E,ducarme,F,78,African American,,True,,40,0
+821-39-6737,14-10-2023 13:39,F,Yockney,F,44,White,,False,,48,0
+197-60-5950,25-07-2024 17:01,H,Rudland,M,34,White,,False,,59,0
+612-42-2700,21-07-2023 08:56,L,Torald,M,6,White,,False,,29,0
+607-43-0418,24-03-2024 22:41,P,Queyeiro,F,27,White,,True,8.0,29,0
+403-72-3420,19-09-2024 00:21,Y,Hallihan,M,32,African American,,False,7.0,15,0
+204-52-5423,13-07-2024 15:30,W,Lobe,F,11,White,Orthopedics,False,,55,0
+469-38-1832,16-06-2023 09:08,M,Tutton,F,32,Two or More Races,,True,,51,0
+295-25-4846,11-09-2024 09:13,C,Kepp,M,72,Two or More Races,,True,8.0,53,0
+730-22-5135,13-10-2024 23:15,H,Trubshaw,F,43,Native American/Alaska Native,,False,,53,0
+408-14-1967,25-11-2023 11:35,H,McCanny,F,66,Asian,Orthopedics,False,,19,0
+186-82-0440,06-02-2024 10:37,T,Rought,M,56,Declined to Identify,General Practice,True,,40,0
+338-56-5549,09-09-2023 19:25,F,Cod,M,56,African American,Orthopedics,True,,59,0
+424-43-5485,09-10-2024 23:25,Z,McClarence,M,16,White,General Practice,False,,15,0
+109-57-9083,16-07-2023 10:50,O,Gohn,F,28,Pacific Islander,,False,,12,0
+129-82-0895,08-09-2023 05:59,B,Hargie,M,56,White,,True,,42,0
+786-39-5598,21-02-2024 09:05,M,Thurner,F,38,White,,True,,55,0
+684-05-3448,28-08-2023 06:12,F,Boggish,F,33,Native American/Alaska Native,,True,5.0,45,0
